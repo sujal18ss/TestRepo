@@ -1,2 +1,5 @@
 git pull
 git add
+
+git push origin main 
+this above command was executed on vs code than link with github via authurization
